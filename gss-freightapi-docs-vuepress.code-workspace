@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/out": true,
+			"**/node_modules":true,
+			"**/.cache":true,
+			"**/.temp":true,
+			"**/dist":true
+		}
+	}
+}
